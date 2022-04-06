@@ -1,0 +1,1 @@
+Un ejercicio muy completo donde creamos una base de datos desde SQL 
